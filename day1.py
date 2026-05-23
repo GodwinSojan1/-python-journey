@@ -1,0 +1,12 @@
+name = input('enter your name: ')
+age = int(input('enter your age: '))
+city = input('enter your city: ')
+height = float(input('enter your height: '))
+GPA = float(input('enter your GPA: '))
+
+print("----your profile----")
+print(f'name:{name}')
+print(f'age:{age}')
+print(f'city:{city}')
+print(f'height:{height}')
+print(f'GPA:{GPA}')
