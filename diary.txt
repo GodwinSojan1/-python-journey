@@ -1,0 +1,3 @@
+2026-05-25: jhjchgh
+2026-05-25: hello anna
+2026-05-25: Today I learned file handling in Python
